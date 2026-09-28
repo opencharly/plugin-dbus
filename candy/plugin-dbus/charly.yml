@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-dbus:
     candy:
-        version: 2026.187.1200
         description: |-
             OUT-OF-TREE charly plugin serving the `dbus` live-container check verb — a
             standalone Go module (go.mod + main.go) that interacts with D-Bus services inside
